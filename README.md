@@ -1,5 +1,7 @@
 ## node.js http模块结合cheerio小爬虫
 
+学习了慕课网的课程，跟着做了一个爬取老师所有课程目录及其章节的爬虫
+
 结合了JavaScript的神器是Promise,用来传递异步操作的消息。
 
 Promise库有很多，这里用的bluebird，要先安装它 
